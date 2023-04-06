@@ -1,0 +1,75 @@
+[
+  {
+    "firstname": "Mobolaji",
+    "lastname": "Oginni",
+    "username": "beejay",
+    "roles": [5001, 2001, 3001],
+    "password": "password",
+    "email": "beejay@gmail.com"
+  },
+  {
+    "firstname": "Mobolaji",
+    "lastname": "Oginni",
+    "username": "beejay",
+    "roles": [5001, 2001, 3001],
+    "password": "password",
+    "email": "beejay@gmail.com"
+  },
+  {
+    "firstname": "Mobolaji",
+    "lastname": "Oginni",
+    "username": "beejay",
+    "roles": [5001, 2001, 3001],
+    "password": "password",
+    "email": "beejay@gmail.com"
+  },
+  {
+    "firstname": "Richard",
+    "lastname": "Oginni",
+    "username": "ricjay",
+    "email": "ricjay@gmail.com",
+    "password": "password"
+  },
+  {
+    "firstname": "Richard1",
+    "lastname": "Oginni",
+    "username": "ricjay",
+    "email": "ricjay@gmail.com",
+    "roles": [2001],
+    "password": "$2b$10$4219ONBn294igLDCvOGK7Oe6PFzKZcYPcUGPa38tfo3ugFaZnUy4C"
+  },
+  {
+    "firstname": "Richard1",
+    "lastname": "Oginni",
+    "username": "ricjay",
+    "email": "ricjay@gmail.com",
+    "roles": [2001],
+    "password": "$2b$10$OSPZGevY4wid8nuB84nOAeZdizHUOcUReqU6RdsRfQvrq7BYJQg2m"
+  },
+  {
+    "firstname": "Richard12",
+    "lastname": "Oginni",
+    "username": "ricandy",
+    "email": "ricandy@gmail.com",
+    "roles": [2001],
+    "password": "$2b$10$1WbARTl0ctOcOEAbdOkIfu8qyXnLndXgeD3BxzUlhQDxMD2No2gc6"
+  },
+  {
+    "firstname": "Richard123",
+    "lastname": "Oginni",
+    "username": "richardw",
+    "email": "ricandyw@gmail.com",
+    "roles": [2001],
+    "password": "$2b$10$RzSsI30thT62sLi2unQ38e1nVbCzVnd6VmbhPdbY06smmA8yNXuvK"
+  },
+  {
+    "firstname": "Richard123",
+    "lastname": "Oginni",
+    "username": "richard",
+    "email": "ricandy@gmail.com",
+    "roles": [2001],
+    "password": "$2b$10$7rmZpJ9XUygOYn7h9JxG0uAcTVndyH6pjnoxR.EtcxJveQ4JJjrpS",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJpY2hhcmQiLCJpYXQiOjE2NzQ1NzE3NzIsImV4cCI6MTY3NDU3NTM3Mn0.KlxDljYKhjmzgFWp04Wu8iJc1l0_oISuJmJk4_ReGzU"
+  }
+]
+ 
